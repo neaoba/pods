@@ -21,7 +21,7 @@
       <description>最初のエピソードです。</description>
       <pubDate>Sun, 06 Apr 2026 00:00:00 +0900</pubDate>
       <enclosure
-        url="https://neaoba.github.io/pods/episodes/umi.wav"
+        url="https://neaoba.github.io/pods/episodes/umi.mp3"
         length="5000000"
         type="audio/mpeg"/>
       <itunes:duration>3:30</itunes:duration>
