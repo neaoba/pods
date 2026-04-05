@@ -13,7 +13,7 @@
     <itunes:summary>自分専用のポッドキャスト</itunes:summary>
     <itunes:category text="Music"/>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://neaoba.github.io/pods/cover.jpg"/>
+    <itunes:image href="https://neaoba.github.io/pods/cover.png"/>
 
     <!-- ===== エピソード1 ===== -->
     <item>
